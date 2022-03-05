@@ -20,7 +20,7 @@ permalink: pretty
 template_engine: erb
 
 # Other options you might want to investigate:
-# 
+#
 # base_path: "/" # the subpath of your site, e.g. /blog
 # timezone: America/Los_Angeles
 # pagination:
