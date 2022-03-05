@@ -41,7 +41,11 @@ h1 {
 }
 
 body > header {
-  margin: 1rem;
+  /* margin: 1rem; */
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   text-align: center;
 }
 
@@ -69,7 +73,7 @@ body > nav a {
 main {
   margin: 2rem auto 2rem;
   max-width: 76rem;
-  min-height: calc(80vh - 0px);
+  min-height: calc(75vh - 10px);
   padding: 25px 25px 25px 25px ;
   background: white;
   box-shadow: 2px 3px 3px #ddd;
@@ -82,7 +86,7 @@ main {
 
 footer {
   text-align: center;
-  margin-bottom: 4rem;
+  margin-bottom: 1.1rem;
   font-size: 1em;
 }
 
