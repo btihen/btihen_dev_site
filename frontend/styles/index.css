@@ -67,10 +67,10 @@ body > nav a {
 }
 
 main {
-  margin: 2rem auto 4rem;
-  max-width: 65rem;
-  min-height: calc(100vh - 200px);
-  padding: 25px 25px 50px;
+  margin: 2rem auto 2rem;
+  max-width: 76rem;
+  min-height: calc(80vh - 0px);
+  padding: 25px 25px 25px 25px ;
   background: white;
   box-shadow: 2px 3px 3px #ddd;
   border-radius: 3px;
